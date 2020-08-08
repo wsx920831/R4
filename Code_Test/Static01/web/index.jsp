@@ -11,6 +11,6 @@
     <title>$王嗣鑫个人网站$</title>
   </head>
   <body>
-  <h1 style="color: brown">\n\n\n梁倩倩大傻逼</h1>
+  <h1 style="color: #a52a2a">\n\n\n梁倩倩大傻逼</h1>
   </body>
 </html>
